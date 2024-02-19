@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=E6E6FA&labelColor=483D8B&color=483D8B" 
       alt="Gmail">
   </a>
-  <a href="anajvn.github.io">
+  <a href="https://anajvn.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=E6E6FA&labelColor=483D8B&color=483D8B" 
       alt="portfolio">
   </a>
