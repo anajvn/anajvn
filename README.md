@@ -126,7 +126,7 @@ Here you'll find a bit about who I am and the work I've done so far ⭐
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anajvn&show_icons=true&title_color=483D8B&text_color=9370DB&icon_color=483D8B&bg_color=E6E6FA"   
-    width="400"/>
+    width="400"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajvn&layout=compact&title_color=483D8B&text_color=9370DB&bg_color=E6E6FA"   
     width="400"/>
 </p>
